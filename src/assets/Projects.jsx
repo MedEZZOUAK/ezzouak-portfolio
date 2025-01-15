@@ -31,9 +31,9 @@ function Projects() {
       category: "fullstack",
       link: "https://github.com/Ayuubakb/Urbanisme",
       images: [
-        "../../public/Urbanisme/EurekaRegistry.png",
+        "/Urbanisme/EurekaRegistry.png",
         "../../public/Urbanisme/useCase1.jpg",
-        "../../public/Urbanisme/useCase2.jpg",
+        "/Urbanisme/useCase2.jpg",
       ],
       status: "completed",
       year: "2025",

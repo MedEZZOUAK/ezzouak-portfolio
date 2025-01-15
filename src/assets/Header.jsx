@@ -120,7 +120,7 @@ function Header() {
         >
           <CTAButton href="#projects">View Projects</CTAButton>
           <CTAButton href="#contact" secondary>Get in Touch</CTAButton>
-          <CTAButton href="../../public/CV_Mohammed_EZZOUAK.pdf" secondary>Download CV</CTAButton>
+          <CTAButton href="/CV_Mohammed_EZZOUAK.pdf" secondary>Download CV</CTAButton>
         </motion.div>
       </div>
     </header>
