@@ -31,13 +31,13 @@ function Projects() {
       category: "fullstack",
       link: "https://github.com/Ayuubakb/Urbanisme",
       images: [
-        "/Urbanisme/arch.png",
-        "/Urbanisme/pic1.jpg",
-        "/Urbanisme/pic2.jpg",
+        "/arch.png",
+        "/pic1.jpg",
+        "/pic2.jpg",
       ],
       status: "completed",
       year: "2025",
-      report: "/Urbanisme/report.pdf",
+      report: "/report.pdf",
     },
     {
       title: "PhD Enrollment System",
